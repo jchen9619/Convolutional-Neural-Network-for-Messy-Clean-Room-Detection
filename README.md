@@ -1,1 +1,1 @@
-# Convolutional-Neural-Network-for-Messy-Clean-Room-Detection
+# Convolutional Neural Network for Messy vs. Clean Room Detection
