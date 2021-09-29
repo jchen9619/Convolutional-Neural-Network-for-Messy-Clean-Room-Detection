@@ -14,7 +14,8 @@ The training set comprises 212 images, half labeled "clean" and half labeled "me
 **Modeling: Neural Network Layers** <br>
 In addition to Keras preset model VGG19, the final two Dense layers use ReLu and Sigmoid activation functions after flattening the VGG19 output. Additionally, a callback parameter was included when fitting the model to stop the training process when training accuracy achieved 90%. 
 
-The model summary is as follows: 
+The model summary is as follows: <br>
+
 Layer (type)                 Output Shape              Param #   
 =================================================================
 input_1 (InputLayer)         [(None, 32, 32, 3)]       0         
