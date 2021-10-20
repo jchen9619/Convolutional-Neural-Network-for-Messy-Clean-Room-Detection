@@ -37,15 +37,14 @@ Of the 10 test set images, the CNN model successfully predicted the status of 6.
         <h3><a href="#">1</a></h3>
       </div>
     </li>
- </ul>
- 
     <li>
-      <a href="#" style="background-image: url('img/image-2.jpg');"></a>
+      <a href="#" style="background-image: url('https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/2.png');"></a>
       <div class="details">
-        <h3><a href="#">Industrial</a></h3>
-        <p class="image-author">Earnest Leming</p>
+        <h3><a href="#">2</a></h3>
       </div>
     </li>
+ </ul>
+
     <li>
       <a href="#" style="background-image: url('img/image-3.jpg');"></a>
       <div class="details">
