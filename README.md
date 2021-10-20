@@ -32,6 +32,7 @@ Of the 10 test set images, the CNN model successfully predicted the status of 6.
 
 **Test Dataset Images** <br>
 <figure>
+    <figcaption>1</figcaption>
     <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/1.png"
          width="150">
     <figcaption>1</figcaption>
