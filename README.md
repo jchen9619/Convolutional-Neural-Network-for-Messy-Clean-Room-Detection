@@ -11,8 +11,8 @@ Using Tensorflow, this project examines the accuracy of the CNN module VGG19 on 
 **Dataset** <br>
 The training set comprises 212 images, half labeled "clean" and half labeled "messy", of which 20% was used as a validation dataset in the training process. The test set includes 10 images. 
 
-Below is a sample of 10 images in the training set: 
-[    ]
+Below is a sample of 10 images in the training set: <br>
+ <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/1.png" width="50" /> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/12.png" width="50"/> 
 
 **Modeling: Neural Network Layers** <br>
 In addition to Keras preset model VGG19, the final two Dense layers use Rectified Linear Unit (ReLu) and Sigmoid activation functions after flattening the VGG19 output. Additionally, a callback parameter was included when fitting the model to stop the training process when training accuracy achieved 90%. 
