@@ -23,7 +23,7 @@ In addition to Keras preset model VGG19, the final two Dense layers use Rectifie
 
 The model summary is as follows: <br>
  
-  <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/Files/CNN%20VGG19%20Param.png" width=500 />
+  <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/Files/CNN%20VGG19%20Param.png" width=400 />
   
 </p> 
 
