@@ -19,9 +19,9 @@ In addition to Keras preset model VGG19, the final two Dense layers use Rectifie
 
 The model summary is as follows: <br>
  
-  <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/Files/CNN%20VGG19%20Param.png" width=300 align=left>
+  <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/Files/CNN%20VGG19%20Param.png" length=300 />
   
-</p> <br>
+</p> 
 
 **Conclusion** <br>
 Of the 10 test set images, the CNN model successfully predicted the status of 6. Two of the wrong predictions are misleading pictures of messy rooms that can easily be mistaken as clean, as they both show objects with clearly defined edges. 
