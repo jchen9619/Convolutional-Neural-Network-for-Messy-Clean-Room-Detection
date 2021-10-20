@@ -30,16 +30,11 @@ The model summary is as follows: <br>
 Of the 10 test set images, the CNN model successfully predicted the status of 6. Two of the wrong predictions are misleading pictures of messy rooms that can easily be mistaken as clean, as they both show objects with clearly defined edges. 
 
 **Test Dataset Images** <br>
-<ul>
-  <li class="container">
-    <img class="image" src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/1.png" width="150“/>
-    <span class="caption">1</span>
-  </li>
-  <li class="container">
-    <img class="image" src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/2.png" width="150"/>
-    <span class="caption">2</span>
-  </li>
-</ul>
+<pre>
+hello, this is
+   just an     example
+....
+</pre>
 
 
 
