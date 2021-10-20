@@ -30,6 +30,53 @@ The model summary is as follows: <br>
 Of the 10 test set images, the CNN model successfully predicted the status of 6. Two of the wrong predictions are misleading pictures of messy rooms that can easily be mistaken as clean, as they both show objects with clearly defined edges. 
 
 **Test Dataset Images** <br>
+<ul class="image-list-small">
+    <li>
+      <a href="#" style="background-image: url('https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/1.png');"></a>
+      <div class="details">
+        <h3><a href="#">1</a></h3>
+      </div>
+    </li>
+ </ul>
+ 
+    <li>
+      <a href="#" style="background-image: url('img/image-2.jpg');"></a>
+      <div class="details">
+        <h3><a href="#">Industrial</a></h3>
+        <p class="image-author">Earnest Leming</p>
+      </div>
+    </li>
+    <li>
+      <a href="#" style="background-image: url('img/image-3.jpg');"></a>
+      <div class="details">
+        <h3><a href="#">When in Rome..</a></h3>
+        <p class="image-author">Edward Flint</p>
+      </div>
+    </li>
+    <li>
+      <a href="#" style="background-image: url('img/image-4.jpg');"></a>
+      <div class="details">
+        <h3><a href="#">Mountain Top</a></h3>
+        <p class="image-author">Rick Alpine</p>
+      </div>
+    </li>
+    <li>
+      <a href="#" style="background-image: url('img/image-5.jpg');"></a>
+      <div class="details">
+        <h3><a href="#">Vienna Adventure</a></h3>
+        <p class="image-author">Stacy River</p>
+      </div>
+    </li>
+    <li>
+      <a href="#" style="background-image: url('img/image-6.jpg');"></a>
+      <div class="details">
+        <h3><a href="#">Magnificent beach</a></h3>
+        <p class="image-author">Frank Stone</p>
+      </div>
+    </li>
+</ul>
+
+
 <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/1.png" width="195" /> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/2.png" width="195"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/3.png" width="195"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/4.png" width="195"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/5.png" width="195"/> 
 <pre>
            1                       2                       3                       4                       5
