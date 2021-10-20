@@ -13,7 +13,6 @@ The training set comprises 212 images, half labeled "clean" and half labeled "me
 
 Below is a sample of 10 images in the training set: <br>
 **Messy** <br>
-1                       2
  <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/1.png" width="150" /> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/12.png" width="150"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/19.png" width="150"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/4.png" width="150"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/7.png" width="150"/> 
 
 **Clean** <br>
