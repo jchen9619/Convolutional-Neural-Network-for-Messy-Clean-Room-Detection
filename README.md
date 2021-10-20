@@ -13,6 +13,7 @@ The training set comprises 212 images, half labeled "clean" and half labeled "me
 
 Below is a sample of 10 images in the training set: <br>
 **Messy** <br>
+![messy1](https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/1.png)
  <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/1.png" width="150" /> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/12.png" width="150"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/19.png" width="150"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/4.png" width="150"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images/messy/7.png" width="150"/> 
 
 **Clean** <br>
@@ -31,6 +32,7 @@ The model summary is as follows: <br>
 Of the 10 test set images, the CNN model successfully predicted the status of 6. Two of the wrong predictions are misleading pictures of messy rooms that can easily be mistaken as clean, as they both show objects with clearly defined edges. 
 
 **Test Dataset Images** <br>
+
 
 **Prediction Output** <br>
  <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/Files/Model%20Output.png" width=450 />
