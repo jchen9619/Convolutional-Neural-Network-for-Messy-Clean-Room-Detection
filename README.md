@@ -3,7 +3,7 @@
 <a id="data-source"></a>
 Judy Chen
 
-[Full Code](https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/Messy%20vs%20Clean%20Room%20.ipynb)
+[Full Code](https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/Files/Messy%20vs%20Clean%20Room%20.ipynb)
 
 **Introduction** <br>
 Using Tensorflow, this project examines the accuracy of the CNN module VGG19 on predicting the binary output of detecting if a room is messy or clean.
@@ -18,7 +18,7 @@ Below is a sample of 10 images in the training set:
 In addition to Keras preset model VGG19, the final two Dense layers use Rectified Linear Unit (ReLu) and Sigmoid activation functions after flattening the VGG19 output. Additionally, a callback parameter was included when fitting the model to stop the training process when training accuracy achieved 90%. 
 
 The model summary is as follows: <br>
-  <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/CNN%20VGG19%20Param.png" />
+  <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/Files/CNN%20VGG19%20Param.png" />
 </p>
 
 **Conclusion** <br>
