@@ -32,7 +32,7 @@ Of the 10 test set images, the CNN model successfully predicted the status of 6.
 **Test Dataset Images** <br>
 <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/1.png" width="195" /> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/2.png" width="195"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/3.png" width="195"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/4.png" width="195"/> <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/images_test/5.png" width="195"/> 
 <pre>
-                1                  2                  3                  4                  5
+           1                       2                       3                       4                       5
 </pre>
 
 The action of every agent <br />
