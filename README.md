@@ -31,8 +31,7 @@ Of the 10 test set images, the CNN model successfully predicted the status of 6.
 
 **Test Dataset Images** <br>
 <pre>
-hello, this is
-   just an     example
+1                  2                  3                  4                  5
 ....
 </pre>
 
