@@ -35,6 +35,11 @@ Of the 10 test set images, the CNN model successfully predicted the status of 6.
 1                  2                  3                  4                  5
 </pre>
 
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
+
 **Prediction Output** <br>
  <img src="https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/Files/Model%20Output.png" width=450 />
   
