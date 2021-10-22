@@ -1,7 +1,7 @@
 ### Messy vs. Clean Room Detection Project with Convolutional Neural Network VGG19 
 ---
 <a id="data-source"></a>
-Judy Chen
+Chen Chen
 
 [Full Code](https://github.com/jchen9619/Convolutional-Neural-Network-for-Messy-Clean-Room-Detection/blob/main/Files/Messy%20vs%20Clean%20Room%20.ipynb)
 
